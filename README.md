@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://act7248.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <h4>Study</h4>
-<a href="https://act7248.tistory.com/"><img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <h4>Tools</h4>
-<a href="https://act7248.tistory.com/"><img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
