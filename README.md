@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <h4>Tools</h4>
-<a><img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/git-000000?style=flat-square&logo=github&logoColor=white"/></a>
