@@ -38,4 +38,6 @@ Here are some ideas to get you started:
   <a><img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IumSungEnu&show_icons=true&theme=radical)
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IumSungEnu&show_icons=true&theme=buefy)
