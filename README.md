@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F0CA61&height=300&section=header&text=Hello%20Welcome&fontSize=90&fontColor=fff)
 
-### 반갑습니다. 개발자를 꿈꾸는 임성은입니다. 👋
+### 안녕하세요! 프론트와 백엔드 모두 관심있는 열정 가득한 신입개발자입니다! 👋
 
 <!--
 **IumSungEnu/IumSungEnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
