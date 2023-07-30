@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Stroke%20Test&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Stroke%20Test&fontAlign=70&fontColor=d6ace6)
 
 ### Hi there 👋
 
